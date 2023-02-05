@@ -1,0 +1,40 @@
+.page{
+    background-color:aquamarine;
+}
+.table{
+    padding-top: 100px;
+}
+input{
+    width: 20%;
+    margin-left: 10px;
+    border-radius: 10px;
+    height: 10vh;
+    display: block;
+    border: 1px solid transparent;
+    
+}
+/* .deep{
+    border: 2px solid;
+    letter-spacing: 5.5px;
+    width: 10%;   
+} */
+
+/* .return{
+    border: 2px solid;
+    letter-spacing: 10.7px;
+    width: 10%;
+    margin-left: 10px;
+} */
+/* .depature{
+    display: flex;
+} */
+
+.go{
+    background-color: orange;
+    color: white;
+    width: 30%;
+    border: 2px solid transparent;
+    justify-content: center;
+    margin-left: 30%;
+    margin-top: 100px;
+}

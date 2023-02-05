@@ -1,0 +1,20 @@
+.dad{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.sister{
+    height: 100%;
+    background-size: cover;
+    width: 100%;
+    background-image: url(../_20221204_190727.png);
+    
+}
+a{
+  color: white;
+    
+}
+a:hover{
+    color: blue;
+    transition: .4s;
+}

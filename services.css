@@ -1,0 +1,8 @@
+span{
+    color: orange;
+}
+
+.services{
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,14 @@
+.watch{
+    justify-content: center;
+}
+.mice{
+    margin-left: 45%;
+    
+}
+.rat{
+    display: grid;
+}
+
+.roach, .termite, .fly, .ant{
+    padding-bottom: 20px;
+}

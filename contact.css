@@ -1,0 +1,24 @@
+.vicolo{
+    padding-top: 10%;
+    padding-bottom: 10%;
+    justify-content: center;
+}
+.btn{
+    background-color: green;
+    color: white;
+    width: 20%;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: 25px 20px;
+    border-radius: 10px;
+    letter-spacing: 10px;
+    justify-content: center;
+    margin-left: 40%;
+
+}
+
+h4{
+    margin-left: 45.5%;
+    font-weight: bold;
+
+}
